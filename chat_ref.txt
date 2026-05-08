@@ -1,5 +1,5 @@
 chat ref for protect workbook/sheet/file under excel
-https://chatgpt.com/share/69fd8bfe-fd04-83e9-932a-62fd482ddca8
+https://chatgpt.com/share/69fd8cd6-7908-83e8-8001-f239e0d6a5d9
 
 
 vb script
